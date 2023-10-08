@@ -1,0 +1,37 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("billiard_PNG85018.png");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin-top: 10%;
+    padding: auto;
+    
+}
+
+h1 {
+    color: rgb(237, 95, 24);
+    font-size: 3rem;
+    
+}
+
+#message-el {
+    font-style: italic;
+}
+
+p {
+    font-size: 2rem;
+}
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 2px;
+    margin-top: 5px;
+}
